@@ -53,4 +53,4 @@ We welcome contributions to the chatroom from the open source community. If you 
 
 ## **License**
 
-This chatroom is licensed under the MIT License. See the LICENSE file for more information.
+This chatroom is licensed under the MIT License.
