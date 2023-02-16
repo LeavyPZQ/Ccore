@@ -32,11 +32,6 @@ This is my first own big project and my first time working with socket.io and no
 - [x] adding and removing clients
 - [x] name setup
 
- - create rooms
- - make rooms private with a password
- - make rooms customizable with own name roomID and link
- - autoremove unvisited rooms after a period of time
-
 ## **Getting started**
 
 To get started with the chatroom, follow these steps:
