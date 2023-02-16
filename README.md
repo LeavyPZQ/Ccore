@@ -1,5 +1,5 @@
 
-# **Ccore**
+# **CCore**
 ### Anonymous Server-Based Chatroom
 
 This is an anonymous server-based chatroom that allows users to chat with each other without disclosing their identities. The chatroom is designed to be simple, secure, and easy to use.
@@ -53,4 +53,4 @@ We welcome contributions to the chatroom from the open source community. If you 
 
 ## **License**
 
-This chatroom is licensed under the MIT License.
+CCore is licensed under the MIT License.
