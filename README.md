@@ -17,10 +17,10 @@ This is an anonymous server-based chatroom that allows users to chat with each o
 
 - [ ] add encryption
 - [ ] room system
-      - create rooms
-      - make rooms private with a password
-      - make rooms customizable with own name roomID and link
-      - autoremove unvisited rooms after a period of time
+- create rooms
+- make rooms private with a password
+- make rooms customizable with own name roomID and link
+- autoremove unvisited rooms after a period of time
 - [ ] save msg in cookies for the ability to revisit old chatrooms 
 - [x] identify diffrent clients in one room
 - [x] save anonymous entry data in browser local storage for a faster reconnect
