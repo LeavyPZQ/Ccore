@@ -4,6 +4,9 @@
 
 This is an anonymous server-based chatroom that allows users to chat with each other without disclosing their identities. The chatroom is designed to be simple, secure, and easy to use.
 
+##### Disclamer
+This is my first own big project and my first time working with socket.io and node.js so if you find a better solution for something feel free to correct me. I will credit every helper here and on the official site.
+
 ## **Features**
 
 - Anonymous chatting: Users can chat with each other without disclosing their identities.
