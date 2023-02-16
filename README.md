@@ -13,6 +13,20 @@ This is an anonymous server-based chatroom that allows users to chat with each o
 - Real-time updates: The chatroom provides real-time updates so users can see new messages as they come in.
 - User-friendly interface: The chatroom has a user-friendly interface that is easy to use.
 
+## **Currently working on**
+
+- [ ] add encryption
+- [ ] room system
+      - create rooms
+      - make rooms private with a password
+      - make rooms customizable with own name roomID and link
+      - autoremove unvisited rooms after a period of time
+- [ ] save msg in cookies for the ability to revisit old chatrooms 
+- [x] identify diffrent clients in one room
+- [x] save anonymous entry data in browser local storage for a faster reconnect
+- [x] adding and removing clients
+- [x] name setup
+
 ## **Getting started**
 
 To get started with the chatroom, follow these steps:
@@ -22,13 +36,13 @@ To get started with the chatroom, follow these steps:
 3. Join a chatroom or create your own.
 4. Start chatting!
 
-## **Security**
+## **Security** (coming soon)
 
 The chatroom is designed to be secure and protect users' privacy. To ensure security, the chatroom uses SSL encryption to protect all communications between the server and users. In addition, the chatroom does not collect any personally identifiable information from users.
 
 ## **Support**
 
-If you encounter any issues with the chatroom or have any questions, please contact our support team at **[support@chatroom.com](mailto:support@chatroom.com)**.
+If you encounter any issues with the chatroom or have any questions, please contact our support on our discord server **[coming soon](mailto:support@chatroom.com)**.
 
 ## **Contributing**
 
