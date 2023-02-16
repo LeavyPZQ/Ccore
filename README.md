@@ -26,7 +26,7 @@ This is my first own big project and my first time working with socket.io and no
 - [x] adding and removing clients
 - [x] name setup
 
-[1^]
+[1^]:
  - create rooms
  - make rooms private with a password
  - make rooms customizable with own name roomID and link
