@@ -20,6 +20,12 @@ This is my first own big project and my first time working with socket.io and no
 
 - [ ] add encryption
 - [ ] room system
+```
+ - create rooms
+ - make rooms private with a password
+ - make rooms customizable with own name roomID and link
+ - autoremove unvisited rooms after a period of time
+```
 - [ ] save msg in cookies for the ability to revisit old chatrooms 
 - [x] identify diffrent clients in one room
 - [x] save anonymous entry data in browser local storage for a faster reconnect
